@@ -1,0 +1,30 @@
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csprojResolveAssemblyReference.cache
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csprojResolveAssemblyReference.cache
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.pdb
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.dll
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.pdb
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.dll
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.pdb
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csprojResolveAssemblyReference.cache
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.dll
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.DAL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\bin\Debug\Restaurant_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csproj.AssemblyReference.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csproj.CoreCompileInputs.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.csproj.CopyComplete
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.DAL\obj\Debug\Restaurant_Management.DAL.pdb

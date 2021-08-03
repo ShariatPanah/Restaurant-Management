@@ -1,0 +1,16 @@
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.csprojResolveAssemblyReference.cache
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.pdb
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.dll
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.pdb
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.csprojResolveAssemblyReference.cache
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.dll
+K:\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\bin\Debug\Restaurant_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.csproj.AssemblyReference.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.csproj.CoreCompileInputs.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\Restaurant Management\RestaurantManagement\Restaurant_Management.BLL\obj\Debug\Restaurant_Management.BLL.pdb
